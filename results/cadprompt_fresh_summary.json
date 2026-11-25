@@ -1,0 +1,14 @@
+{
+ "n": 200,
+ "gate_pass": 152,
+ "noicp_lt_0_05": 110,
+ "noicp_median": 0.0367,
+ "poseinv_lt_0_05": 157,
+ "poseinv_lt_0_02": 129,
+ "poseinv_median": 0.0097,
+ "gate_pass_and_poseinv_correct": 126,
+ "scoring_errors": 7,
+ "cost_usd": 0.23,
+ "model": "deepseek-flash (CAD_MODEL default)",
+ "scorer": "pose_inv.py: min chamfer over 24 axis rotations; no stl -> 5.196"
+}

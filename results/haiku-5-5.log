@@ -1,0 +1,62 @@
+PASS   8.0s tries=1 gate=True  | a 40x20x10 mm plate with a 6 mm hole through the center, hol
+PASS   8.7s tries=1 gate=True  | a 60x30x5 mm plate with four 4 mm through holes, 5 mm in fro
+PASS   6.2s tries=1 gate=True  | a 100 mm cube
+PASS   8.1s tries=1 gate=True  | a 50x25x8 mm block with all four vertical edges filleted at 
+PASS   6.8s tries=1 gate=True  | a cylinder 30 mm diameter by 15 mm tall with a 10 mm through
+PASS   7.8s tries=1 gate=True  | an 80x40x6 mm plate with two 5 mm through holes 60 mm apart,
+PASS   6.2s tries=1 gate=True  | a 60 mm diameter disc 5 mm thick
+PASS   6.5s tries=1 gate=True  | a 50 mm diameter sphere
+PASS   7.5s tries=1 gate=True  | a 50 mm OD disc 4 mm thick with a 20 mm center hole
+PASS   6.9s tries=1 gate=True  | a rectangular tube, 40 mm square outside, 2 mm walls, 20 mm 
+PASS   8.3s tries=1 gate=True  | a 90x60x15 mm tray, 2 mm walls and 2 mm floor, open top
+PASS   9.1s tries=1 gate=True  | a 120x80x10 mm plate with a 20 mm diameter round pocket 5 mm
+PASS  14.8s tries=1 gate=True  | a 70x30x10 mm block with a 2 mm 45 degree chamfer on the fou
+PASS  11.9s tries=1 gate=True  | a hex bolt: 8 mm diameter shaft 30 mm long under a hex head 
+PASS  11.0s tries=1 gate=True  | a flange: 80 mm diameter disc 8 mm thick with a 30 mm center
+PASS   7.7s tries=1 gate=True  | a washer: 20 mm OD, 10 mm ID, 2 mm thick
+PASS   8.1s tries=1 gate=True  | an L bracket made of two 4 mm thick plates: a 50 mm wide, 40
+PASS   6.4s tries=1 gate=True  | a 100 mm long solid cylinder 20 mm diameter with a 2 mm x 45
+PASS   7.7s tries=1 gate=True  | a 60x40x20 mm block with a 20 mm diameter hole 10 mm deep (b
+PASS  14.7s tries=2 gate=True  | a pipe: 50 mm OD, 4 mm wall, 200 mm long
+PASS   7.2s tries=1 gate=True  | a cone frustum 40 mm bottom diameter, 20 mm top diameter, 30
+PASS  10.0s tries=1 gate=True  | a 100x20x20 mm bar with five 4 mm through holes equally spac
+PASS   8.8s tries=1 gate=True  | a stepped shaft: 20 mm diameter 30 mm long, then 12 mm diame
+PASS   6.5s tries=1 gate=True  | a plate 100x60x4 mm with a 30x20 mm rectangular through wind
+PASS   8.7s tries=1 gate=True  | a 30 mm cube with a 10 mm radius sphere-shaped dimple remove
+PASS  18.8s tries=2 gate=True  | a counterbored plate 50x50x10 mm with one center through hol
+PASS  15.4s tries=2 gate=True  | a ring: torus-free ring 60 mm outer diameter 40 mm inner dia
+PASS   9.4s tries=1 gate=True  | a 2x3 grid of 5 mm diameter through holes with 15 mm pitch i
+PASS   9.9s tries=1 gate=True  | a solid 25 mm cube unioned with a 25 mm diameter cylinder 25
+PASS  19.9s tries=1 gate=True  | a gear-like disc: 60 mm diameter, 8 mm thick, with 12 rectan
+PASS   8.5s tries=1 gate=True  | a bottle: revolve a profile into a 40 mm diameter cylindrica
+PASS  11.7s tries=1 gate=True  | a 60x40x30 mm block, hollowed to a 3 mm wall box open at the
+Exception in thread Thread-194 (<lambda>):
+Traceback (most recent call last):
+  File "<path>", line 1075, in _bootstrap_inner
+    self.run()
+  File "<path>", line 1012, in run
+    self._target(*self._args, **self._kwargs)
+  File "<path>", line 93, in <lambda>
+    threading.Thread(target=lambda w=w, i=i: q.put(attempt(prompt, w, 0.0 if i == 0 else 0.8)), daemon=True).start()
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<path>", line 85, in attempt
+    m = w.run(code); fails = gate(spec, m)
+                             ^^^^^^^^^^^^^
+  File "<path>", line 77, in gate
+    if v and abs(m["volume"] - v) > 0.02 * v: f.append(f"volume measured {m['volume']} but spec {v}")
+                 ~~~~~~~~~~~~^~~
+TypeError: unsupported operand type(s) for -: 'float' and 'str'
+PASS   9.1s tries=1 gate=True  | an I-beam cross-section extruded 100 mm: 40 mm wide flanges 
+PASS  10.2s tries=1 gate=True  | a 50 mm diameter, 10 mm tall disc with 8 evenly spaced 4 mm 
+PASS   7.4s tries=1 gate=True  | a rectangular plate 80x50x5 mm with all four corners rounded
+PASS   8.5s tries=1 gate=True  | a T-slot nut block: 30x20x10 mm with a 6 mm diameter through
+PASS   8.4s tries=1 gate=True  | a spool: two 40 mm diameter 3 mm thick end discs separated b
+PASS  35.4s tries=3 gate=True  | an arch: 60 mm wide 40 mm tall 10 mm thick rectangular block
+PASS  11.2s tries=1 gate=True  | a pyramid with a 40x40 mm square base and 30 mm height (loft
+PASS   7.8s tries=1 gate=True  | a 4 mm thick plate 60x60 mm with a 50x50 mm square pocket 2 
+PASS  15.2s tries=1 gate=True  | a dumbbell: two 30 mm diameter spheres joined by a 10 mm dia
+PASS   8.5s tries=1 gate=True  | a washer stack: three 20 mm OD 10 mm ID 2 mm thick washers s
+PASS   9.3s tries=1 gate=True  | a 100x40x3 mm sheet bent into a U channel: 40 mm base, two 2
+PASS  12.0s tries=1 gate=True  | a bracket: 60x40x4 mm base plate with two 6 mm through holes
+
+pass 44/44  median 8.67s  p90 14.84s  tokens 47615

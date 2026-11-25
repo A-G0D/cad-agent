@@ -1,0 +1,182 @@
+Fetching 14 files:   0%|          | 0/14 [00:00<?, ?it/s]Fetching 14 files: 100%|██████████| 14/14 [00:00<00:00, 4876.29it/s]
+{"id": "00008315", "ok": false, "fb": true, "sec": 10.07, "tries": 3, "tok": 1615, "cd": 0.002331287289710911, "volratio": 1.0000000173846397}
+{"id": "00008597", "ok": true, "fb": false, "sec": 1.24, "tries": 1, "tok": 331, "cd": 0.009892396773346867, "volratio": 1.0}
+{"id": "00008835", "ok": false, "fb": true, "sec": 5.87, "tries": 3, "tok": 1528, "cd": 0.0019286237514276028, "volratio": 0.9996444700317084}
+{"id": "00009044", "ok": false, "fb": true, "sec": 7.57, "tries": 3, "tok": 1805, "cd": 0.1464839113920043, "volratio": 1.0048952820009884}
+{"id": "00009307", "ok": false, "fb": true, "sec": 19.85, "tries": 3, "tok": 2910, "cd": 0.10163953977915324, "volratio": 0.9735792794311251}
+{"id": "00009529", "ok": false, "fb": false, "sec": 20.75, "tries": 3, "tok": 3959, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00009529.stl`"}
+{"id": "00009823", "ok": false, "fb": true, "sec": 5.19, "tries": 3, "tok": 1604, "cd": 0.005677952987110156, "volratio": 1.0000011332004264}
+{"id": "00009843", "ok": false, "fb": true, "sec": 21.59, "tries": 3, "tok": 4038, "cd": 0.12207348289761243, "volratio": 3.027150431767568}
+{"id": "00009863", "ok": true, "fb": false, "sec": 1.83, "tries": 1, "tok": 407, "cd": 0.0056555723886747514, "volratio": 1.0000214388818656}
+{"id": "00009998", "ok": false, "fb": true, "sec": 9.44, "tries": 3, "tok": 2521, "cd": 0.24248308203405222, "volratio": 0.05967621342959213}
+{"id": "00017291", "ok": false, "fb": true, "sec": 19.1, "tries": 3, "tok": 3327, "cd": 0.12352800694666255, "volratio": 0.919746151241919}
+{"id": "00019015", "ok": false, "fb": true, "sec": 11.09, "tries": 3, "tok": 2253, "cd": 0.007469294124426319, "volratio": 1.0033170413082295}
+{"id": "00019066", "ok": false, "fb": true, "sec": 13.16, "tries": 3, "tok": 2489, "cd": 0.294881450904395, "volratio": 0.12446989649327343}
+{"id": "00031181", "ok": true, "fb": false, "sec": 2.01, "tries": 1, "tok": 388, "cd": 0.008475322508542379, "volratio": 999994566.996416}
+{"id": "00031303", "ok": false, "fb": true, "sec": 10.7, "tries": 3, "tok": 2685, "cd": 0.08100375389008235, "volratio": 0.08641784505590834}
+{"id": "00031637", "ok": false, "fb": true, "sec": 10.69, "tries": 3, "tok": 2415, "cd": 0.015609952434981146, "volratio": 1.1597614589739758}
+{"id": "00032961", "ok": false, "fb": false, "sec": 32.39, "tries": 3, "tok": 5657, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00032961.stl`"}
+{"id": "00033093", "ok": false, "fb": true, "sec": 11.07, "tries": 3, "tok": 2639, "cd": 0.006577334413056527, "volratio": 1.0047805034166084}
+{"id": "00033624", "ok": false, "fb": true, "sec": 11.5, "tries": 3, "tok": 2589, "cd": 0.00836573311874986, "volratio": 1.0287501652259878}
+{"id": "00034100", "ok": false, "fb": false, "sec": 17.58, "tries": 3, "tok": 3654, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00034100.stl`"}
+{"id": "00034239", "ok": false, "fb": true, "sec": 13.76, "tries": 3, "tok": 2818, "cd": 0.013919876376045467, "volratio": 1.3011064552082878}
+{"id": "00034243", "ok": false, "fb": true, "sec": 16.42, "tries": 3, "tok": 3557, "cd": 0.006908081309237417, "volratio": 1.027762093472148}
+{"id": "00034256", "ok": false, "fb": true, "sec": 13.02, "tries": 3, "tok": 3303, "cd": 0.06117619958346814, "volratio": 0.24234744378477727}
+{"id": "00036518", "ok": false, "fb": false, "sec": 31.65, "tries": 3, "tok": 6078, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00036518.stl`"}
+{"id": "00037135", "ok": false, "fb": false, "sec": 19.36, "tries": 3, "tok": 3052, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00037135.stl`"}
+{"id": "00037161", "ok": false, "fb": true, "sec": 15.26, "tries": 3, "tok": 2444, "cd": 0.007197675593772764, "volratio": 1.0064829636408859}
+{"id": "00037276", "ok": false, "fb": false, "sec": 31.15, "tries": 3, "tok": 6344, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00037276.stl`"}
+{"id": "00037494", "ok": false, "fb": true, "sec": 7.57, "tries": 3, "tok": 2281, "cd": 0.133010264160193, "volratio": 0.9999305788475599}
+{"id": "00038438", "ok": false, "fb": true, "sec": 23.46, "tries": 3, "tok": 3097, "cd": 0.22320262541731273, "volratio": 1.0000398513981978}
+{"id": "00038614", "ok": false, "fb": false, "sec": 30.42, "tries": 3, "tok": 6556, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00038614.stl`"}
+{"id": "00039012", "ok": false, "fb": true, "sec": 16.4, "tries": 3, "tok": 3492, "cd": 0.035508617172876775, "volratio": 19810.22252275994}
+{"id": "00039227", "ok": false, "fb": false, "sec": 8.95, "tries": 3, "tok": 2054, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00039227.stl`"}
+{"id": "00039365", "ok": false, "fb": false, "sec": 13.36, "tries": 3, "tok": 2867, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00039365.stl`"}
+{"id": "00039681", "ok": false, "fb": true, "sec": 13.76, "tries": 3, "tok": 3219, "cd": 0.07171856012989819, "volratio": 0.7057144447856112}
+{"id": "00039777", "ok": true, "fb": false, "sec": 7.8, "tries": 2, "tok": 1558, "cd": 0.03434193668073507, "volratio": 1.0000198158322424}
+{"id": "00300037", "ok": false, "fb": false, "sec": 11.92, "tries": 3, "tok": 2959, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00300037.stl`"}
+{"id": "00520130", "ok": true, "fb": false, "sec": 5.35, "tries": 2, "tok": 1290, "cd": 0.2001207420198478, "volratio": 1.5925925150820273}
+{"id": "00520150", "ok": false, "fb": true, "sec": 8.38, "tries": 3, "tok": 1927, "cd": 0.2219236576401057, "volratio": 0.21428582530616594}
+{"id": "00520321", "ok": false, "fb": true, "sec": 15.92, "tries": 3, "tok": 3494, "cd": 0.09103186553713305, "volratio": 0.9868488708939264}
+{"id": "00520402", "ok": false, "fb": false, "sec": 12.35, "tries": 3, "tok": 2893, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00520402.stl`"}
+{"id": "00520453", "ok": false, "fb": true, "sec": 6.39, "tries": 3, "tok": 1817, "cd": 0.038068210827013275, "volratio": 0.9999789528017047}
+{"id": "00520570", "ok": true, "fb": false, "sec": 10.37, "tries": 3, "tok": 2405, "cd": 0.13465862787333527, "volratio": 999995566.4402806}
+{"id": "00520638", "ok": false, "fb": false, "sec": 24.25, "tries": 3, "tok": 4985, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00520638.stl`"}
+{"id": "00520671", "ok": false, "fb": true, "sec": 11.34, "tries": 3, "tok": 2798, "cd": 0.01762870460112819, "volratio": 0.9046613834520245}
+{"id": "00520675", "ok": false, "fb": true, "sec": 7.01, "tries": 3, "tok": 2075, "cd": 0.009825659099531467, "volratio": 1.0046783433801045}
+{"id": "00520699", "ok": false, "fb": true, "sec": 12.39, "tries": 3, "tok": 2882, "cd": 0.009345201369020156, "volratio": 0.8651759197124891}
+{"id": "00520726", "ok": false, "fb": false, "sec": 15.03, "tries": 3, "tok": 3595, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00520726.stl`"}
+{"id": "00520776", "ok": false, "fb": true, "sec": 6.07, "tries": 3, "tok": 1911, "cd": 0.007764626166868906, "volratio": 1.004707780885875}
+{"id": "00520974", "ok": true, "fb": false, "sec": 1.36, "tries": 1, "tok": 345, "cd": 0.09602874866497625, "volratio": 0.33333333333333326}
+Context leak detected, CoreAnalytics returned false
+{"id": "00520976", "ok": false, "fb": true, "sec": 10.57, "tries": 3, "tok": 2545, "cd": 0.1649691547142183, "volratio": 1.1250000000000016}
+n=50 compile=0.740 cd_median=0.099 cd_mean=1.406 sec_median=11.71
+Fetching 14 files:   0%|          | 0/14 [00:00<?, ?it/s]Fetching 14 files: 100%|██████████| 14/14 [00:00<00:00, 5993.09it/s]
+{"id": "00521000", "ok": false, "fb": true, "sec": 14.6, "tries": 3, "tok": 2695, "cd": 0.004278789923489212, "volratio": 1.01751106548833}
+{"id": "00521025", "ok": false, "fb": true, "sec": 15.45, "tries": 3, "tok": 3011, "cd": 0.019001706829932623, "volratio": 1.0463918105689538}
+{"id": "00521217", "ok": true, "fb": false, "sec": 8.98, "tries": 3, "tok": 2254, "cd": 0.03496235065606141, "volratio": 1.4558559151331174}
+{"id": "00521230", "ok": false, "fb": false, "sec": 26.78, "tries": 3, "tok": 4210, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00521230.stl`"}
+{"id": "00521437", "ok": false, "fb": true, "sec": 19.21, "tries": 3, "tok": 4087, "cd": 0.005073060005389887, "volratio": 1.7270443489396232}
+{"id": "00521895", "ok": false, "fb": false, "sec": 7.67, "tries": 3, "tok": 2213, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00521895.stl`"}
+{"id": "00521969", "ok": false, "fb": false, "sec": 6.9, "tries": 3, "tok": 1938, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00521969.stl`"}
+{"id": "00522355", "ok": false, "fb": true, "sec": 11.78, "tries": 3, "tok": 2907, "cd": 0.017488590482660177, "volratio": 1.1490426156486993}
+{"id": "00522404", "ok": false, "fb": true, "sec": 11.17, "tries": 3, "tok": 2636, "cd": 0.010677535111567372, "volratio": 0.9837826778196236}
+{"id": "00522865", "ok": false, "fb": true, "sec": 26.19, "tries": 3, "tok": 5194, "cd": 0.02411042395103085, "volratio": 1.22606026532448}
+{"id": "00523882", "ok": false, "fb": false, "sec": 30.74, "tries": 3, "tok": 5404, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00523882.stl`"}
+{"id": "00524912", "ok": false, "fb": true, "sec": 17.07, "tries": 3, "tok": 4182, "cd": 0.11297984903142594, "volratio": 0.968814805186104}
+{"id": "00670105", "ok": false, "fb": true, "sec": 7.35, "tries": 3, "tok": 2046, "cd": 0.1323078055080076, "volratio": 0.9625004026041538}
+{"id": "00670106", "ok": true, "fb": false, "sec": 1.79, "tries": 1, "tok": 373, "cd": 0.007946747355750494, "volratio": 1.0046798045351601}
+{"id": "00670231", "ok": false, "fb": true, "sec": 9.52, "tries": 3, "tok": 2253, "cd": 0.1005658714366368, "volratio": 1.1327754063483468}
+{"id": "00670256", "ok": false, "fb": true, "sec": 10.27, "tries": 3, "tok": 2601, "cd": 0.006846099536341528, "volratio": 1.0000327169404337}
+{"id": "00670259", "ok": true, "fb": false, "sec": 2.97, "tries": 1, "tok": 523, "cd": 0.21638630423038593, "volratio": 1031243243.2432433}
+{"id": "00670266", "ok": false, "fb": false, "sec": 10.54, "tries": 3, "tok": 2623, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00670266.stl`"}
+{"id": "00670268", "ok": false, "fb": true, "sec": 16.09, "tries": 3, "tok": 3602, "cd": 0.09391213251764641, "volratio": 0.9866488373143909}
+{"id": "00670274", "ok": true, "fb": false, "sec": 8.18, "tries": 2, "tok": 1691, "cd": 0.004971366153795554, "volratio": 0.9159103887112591}
+{"id": "00670279", "ok": false, "fb": false, "sec": 8.79, "tries": 3, "tok": 2223, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00670279.stl`"}
+{"id": "00670334", "ok": false, "fb": true, "sec": 6.77, "tries": 3, "tok": 1782, "cd": 0.010271584276140819, "volratio": 1.0381312533792961}
+{"id": "00670441", "ok": false, "fb": true, "sec": 9.02, "tries": 3, "tok": 2109, "cd": 0.007988301474873595, "volratio": 0.999999143522199}
+{"id": "00670454", "ok": false, "fb": true, "sec": 9.94, "tries": 3, "tok": 2471, "cd": 0.006257246428629857, "volratio": 1.0032655763368348}
+{"id": "00670457", "ok": false, "fb": true, "sec": 14.36, "tries": 3, "tok": 3046, "cd": 0.004286063588658143, "volratio": 1.0286097947513884}
+{"id": "00670466", "ok": false, "fb": true, "sec": 9.42, "tries": 3, "tok": 2443, "cd": 0.02323232292731447, "volratio": 1.0000042648186245}
+{"id": "00670817", "ok": false, "fb": true, "sec": 7.02, "tries": 3, "tok": 1965, "cd": 0.006208286963698543, "volratio": 1.0046753415053329}
+{"id": "00670960", "ok": false, "fb": true, "sec": 22.24, "tries": 3, "tok": 4232, "cd": 0.010632991188939758, "volratio": 0.9905480849387291}
+{"id": "00671873", "ok": false, "fb": true, "sec": 9.81, "tries": 3, "tok": 2465, "cd": 0.009550798900636473, "volratio": 1.0000008716680258}
+{"id": "00671898", "ok": false, "fb": true, "sec": 17.17, "tries": 3, "tok": 3371, "cd": 0.2211886518863086, "volratio": 0.36186375834466755}
+{"id": "00671938", "ok": false, "fb": false, "sec": 7.66, "tries": 3, "tok": 2069, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00671938.stl`"}
+{"id": "00672098", "ok": false, "fb": true, "sec": 8.66, "tries": 3, "tok": 2381, "cd": 0.009239015795729867, "volratio": 1.1673629471618632}
+{"id": "00672272", "ok": false, "fb": true, "sec": 12.64, "tries": 3, "tok": 3171, "cd": 0.0038986164153947283, "volratio": 0.9697776937690648}
+{"id": "00672291", "ok": false, "fb": true, "sec": 7.16, "tries": 3, "tok": 2217, "cd": 0.06187468887354049, "volratio": 1.241379353849366}
+{"id": "00672309", "ok": false, "fb": false, "sec": 11.46, "tries": 3, "tok": 3164, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00672309.stl`"}
+{"id": "00672352", "ok": false, "fb": true, "sec": 7.31, "tries": 3, "tok": 2113, "cd": 0.0053060055614953545, "volratio": 1.024112097514741}
+{"id": "00672355", "ok": false, "fb": true, "sec": 6.86, "tries": 3, "tok": 2278, "cd": 0.0965298731498426, "volratio": 1.0050999022927813}
+{"id": "00672359", "ok": false, "fb": false, "sec": 10.84, "tries": 3, "tok": 2448, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00672359.stl`"}
+{"id": "00672804", "ok": false, "fb": true, "sec": 6.31, "tries": 3, "tok": 1854, "cd": 0.007569388014753946, "volratio": 0.99998243287513}
+{"id": "00673733", "ok": false, "fb": true, "sec": 8.71, "tries": 3, "tok": 2213, "cd": 0.1641224901189844, "volratio": 0.27490418967743435}
+{"id": "00673788", "ok": false, "fb": true, "sec": 13.71, "tries": 3, "tok": 2983, "cd": 0.2439879379925451, "volratio": 1.4612403100775193}
+{"id": "00675092", "ok": false, "fb": true, "sec": 9.75, "tries": 3, "tok": 2321, "cd": 0.00530265252411294, "volratio": 0.9999999776482583}
+{"id": "00675498", "ok": false, "fb": false, "sec": 11.02, "tries": 3, "tok": 2536, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00675498.stl`"}
+{"id": "00675952", "ok": false, "fb": true, "sec": 9.96, "tries": 3, "tok": 2294, "cd": 0.0565712541385788, "volratio": 0.999999179496185}
+{"id": "00676218", "ok": false, "fb": true, "sec": 8.69, "tries": 3, "tok": 2186, "cd": 0.010661200383300798, "volratio": 0.5389134651270595}
+{"id": "00680715", "ok": false, "fb": false, "sec": 8.11, "tries": 3, "tok": 2214, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00680715.stl`"}
+{"id": "00681053", "ok": false, "fb": true, "sec": 16.88, "tries": 3, "tok": 3941, "cd": 0.16873978649227628, "volratio": 1.0232937679635516}
+{"id": "00681399", "ok": false, "fb": false, "sec": 12.81, "tries": 3, "tok": 3018, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00681399.stl`"}
+{"id": "00681463", "ok": false, "fb": false, "sec": 10.06, "tries": 3, "tok": 2467, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00681463.stl`"}
+Context leak detected, CoreAnalytics returned false
+{"id": "00681547", "ok": false, "fb": false, "sec": 16.68, "tries": 3, "tok": 3694, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00681547.stl`"}
+n=50 compile=0.720 cd_median=0.059 cd_mean=1.493 sec_median=9.95
+Fetching 14 files:   0%|          | 0/14 [00:00<?, ?it/s]Fetching 14 files: 100%|██████████| 14/14 [00:00<00:00, 6192.16it/s]
+{"id": "00681589", "ok": false, "fb": false, "sec": 20.21, "tries": 3, "tok": 2477, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00681589.stl`"}
+{"id": "00681754", "ok": false, "fb": false, "sec": 7.9, "tries": 3, "tok": 2337, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00681754.stl`"}
+{"id": "00681760", "ok": false, "fb": true, "sec": 15.58, "tries": 3, "tok": 3194, "cd": 0.21141222065885443, "volratio": 0.9300000131799054}
+{"id": "00681831", "ok": false, "fb": true, "sec": 12.72, "tries": 3, "tok": 3160, "cd": 0.13257731559494357, "volratio": 1.111524900798628}
+{"id": "00681999", "ok": false, "fb": true, "sec": 20.39, "tries": 3, "tok": 3617, "cd": 0.09191470945203506, "volratio": 1.1000000000000012}
+{"id": "00682073", "ok": false, "fb": true, "sec": 6.34, "tries": 3, "tok": 1979, "cd": 0.03361576189492969, "volratio": 1.2499999999999993}
+{"id": "00682075", "ok": false, "fb": true, "sec": 24.19, "tries": 3, "tok": 4150, "cd": 0.14617792535540805, "volratio": 0.4999999999999997}
+{"id": "00684686", "ok": false, "fb": false, "sec": 11.76, "tries": 3, "tok": 2917, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00684686.stl`"}
+{"id": "00684841", "ok": false, "fb": false, "sec": 12.97, "tries": 3, "tok": 3003, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00684841.stl`"}
+{"id": "00685823", "ok": false, "fb": true, "sec": 9.76, "tries": 3, "tok": 2611, "cd": 0.04112990267871721, "volratio": 1.316821810108698}
+{"id": "00689273", "ok": false, "fb": true, "sec": 9.24, "tries": 3, "tok": 2699, "cd": 0.1091073399626622, "volratio": 1.0069867635878693}
+{"id": "00689964", "ok": false, "fb": true, "sec": 24.87, "tries": 3, "tok": 4569, "cd": 0.1599195500590092, "volratio": 2.4064456102251355}
+{"id": "00851553", "ok": false, "fb": true, "sec": 22.67, "tries": 3, "tok": 4606, "cd": 0.02652354604035225, "volratio": 1.104074721422992}
+{"id": "00852000", "ok": false, "fb": true, "sec": 19.79, "tries": 3, "tok": 4135, "cd": 0.0384721233970914, "volratio": 4.753518621810995}
+{"id": "00853706", "ok": false, "fb": true, "sec": 17.65, "tries": 3, "tok": 3486, "cd": 0.09107129690318169, "volratio": 0.9960250466417929}
+{"id": "00857821", "ok": false, "fb": false, "sec": 12.26, "tries": 3, "tok": 2760, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00857821.stl`"}
+{"id": "00980412", "ok": true, "fb": false, "sec": 1.83, "tries": 1, "tok": 428, "cd": 0.2327596591909979, "volratio": 0.22342759679885785}
+{"id": "00980651", "ok": false, "fb": true, "sec": 13.47, "tries": 3, "tok": 2827, "cd": 0.058911762750806076, "volratio": 0.43080623818207187}
+{"id": "00982481", "ok": false, "fb": true, "sec": 15.24, "tries": 3, "tok": 2399, "cd": 0.13667879947700734, "volratio": 0.841333524947562}
+{"id": "00983173", "ok": false, "fb": true, "sec": 25.65, "tries": 3, "tok": 4021, "cd": 0.0667289897403984, "volratio": 75826.74550753916}
+{"id": "00984033", "ok": false, "fb": false, "sec": 14.22, "tries": 3, "tok": 3097, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00984033.stl`"}
+{"id": "00984234", "ok": false, "fb": false, "sec": 11.23, "tries": 3, "tok": 2452, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00984234.stl`"}
+{"id": "00984488", "ok": false, "fb": false, "sec": 8.02, "tries": 3, "tok": 2273, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00984488.stl`"}
+{"id": "00984833", "ok": false, "fb": true, "sec": 12.41, "tries": 3, "tok": 3017, "cd": 0.16771445032574636, "volratio": 2.92306780754578}
+{"id": "00985066", "ok": false, "fb": true, "sec": 15.84, "tries": 3, "tok": 3175, "cd": 0.008447372783360933, "volratio": 975460122.6993849}
+{"id": "00985482", "ok": false, "fb": true, "sec": 17.87, "tries": 3, "tok": 3833, "cd": 0.291470729666339, "volratio": 0.22085194283136275}
+{"id": "00985494", "ok": false, "fb": true, "sec": 9.4, "tries": 3, "tok": 2051, "cd": 0.15380226060405033, "volratio": 0.9999997342021935}
+{"id": "00986712", "ok": false, "fb": false, "sec": 23.31, "tries": 3, "tok": 4039, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00986712.stl`"}
+{"id": "00986814", "ok": false, "fb": true, "sec": 11.24, "tries": 3, "tok": 2579, "cd": 0.13395470285655176, "volratio": 0.9994103221478854}
+{"id": "00995686", "ok": false, "fb": true, "sec": 12.26, "tries": 3, "tok": 3047, "cd": 0.11670574471902827, "volratio": 0.6787395262226446}
+{"id": "00995733", "ok": false, "fb": false, "sec": 21.46, "tries": 3, "tok": 4195, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00995733.stl`"}
+{"id": "00995759", "ok": false, "fb": true, "sec": 11.19, "tries": 3, "tok": 2751, "cd": 0.07142797647279178, "volratio": 1.0096219763127836}
+{"id": "00995843", "ok": true, "fb": false, "sec": 4.01, "tries": 2, "tok": 1083, "cd": 0.086973308644605, "volratio": 1.0142486653082263}
+{"id": "00996001", "ok": false, "fb": false, "sec": 12.92, "tries": 3, "tok": 2976, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00996001.stl`"}
+{"id": "00996329", "ok": false, "fb": true, "sec": 9.43, "tries": 3, "tok": 2172, "cd": 0.2484317491928756, "volratio": 0.17187367049936358}
+{"id": "00996368", "ok": false, "fb": true, "sec": 22.96, "tries": 3, "tok": 4291, "cd": 0.13906230957333932, "volratio": 1.121591383778038}
+{"id": "00996457", "ok": false, "fb": false, "sec": 32.51, "tries": 3, "tok": 2607, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00996457.stl`"}
+{"id": "00996473", "ok": false, "fb": false, "sec": 17.64, "tries": 3, "tok": 3748, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00996473.stl`"}
+{"id": "00996962", "ok": false, "fb": true, "sec": 20.54, "tries": 3, "tok": 3693, "cd": 0.017712621684320782, "volratio": 0.709731020751619}
+{"id": "00997040", "ok": false, "fb": true, "sec": 18.6, "tries": 3, "tok": 3713, "cd": 0.2302387440008725, "volratio": 0.7452064062243009}
+{"id": "00997065", "ok": false, "fb": true, "sec": 11.53, "tries": 3, "tok": 3018, "cd": 0.08157698066002769, "volratio": 4.849089180799623}
+{"id": "00997068", "ok": false, "fb": true, "sec": 16.98, "tries": 3, "tok": 2733, "cd": 0.24315275528712932, "volratio": 1.0919853765102452}
+{"id": "00997071", "ok": false, "fb": false, "sec": 15.14, "tries": 3, "tok": 2976, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00997071.stl`"}
+{"id": "00997229", "ok": false, "fb": true, "sec": 15.68, "tries": 3, "tok": 2998, "cd": 0.028237430123862733, "volratio": 1.822475223588303}
+{"id": "00997300", "ok": false, "fb": true, "sec": 11.15, "tries": 3, "tok": 2574, "cd": 0.011006342210999089, "volratio": 1.0105980261028136}
+{"id": "00997373", "ok": false, "fb": true, "sec": 15.21, "tries": 3, "tok": 2993, "cd": 0.007105481723032296, "volratio": 0.9343084794086483}
+{"id": "00997428", "ok": false, "fb": false, "sec": 18.96, "tries": 3, "tok": 3663, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00997428.stl`"}
+{"id": "00997536", "ok": false, "fb": false, "sec": 12.75, "tries": 3, "tok": 2844, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00997536.stl`"}
+{"id": "00997580", "ok": false, "fb": false, "sec": 8.56, "tries": 3, "tok": 2316, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00997580.stl`"}
+Context leak detected, CoreAnalytics returned false
+{"id": "00997616", "ok": false, "fb": false, "sec": 22.51, "tries": 3, "tok": 4168, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00997616.stl`"}
+n=50 compile=0.640 cd_median=0.164 cd_mean=1.943 sec_median=14.68
+Fetching 14 files:   0%|          | 0/14 [00:00<?, ?it/s]Fetching 14 files: 100%|██████████| 14/14 [00:00<00:00, 8303.20it/s]
+{"id": "00997677", "ok": false, "fb": true, "sec": 19.24, "tries": 3, "tok": 4115, "cd": 0.035006590978217955, "volratio": 0.9635150663294711}
+{"id": "00997681", "ok": false, "fb": false, "sec": 30.39, "tries": 3, "tok": 6227, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00997681.stl`"}
+{"id": "00997753", "ok": false, "fb": false, "sec": 11.72, "tries": 3, "tok": 3235, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00997753.stl`"}
+{"id": "00997785", "ok": false, "fb": true, "sec": 8.11, "tries": 3, "tok": 2109, "cd": 0.06083566733369703, "volratio": 0.7442610539916817}
+{"id": "00997852", "ok": false, "fb": true, "sec": 15.0, "tries": 3, "tok": 2688, "cd": 0.08065419984772768, "volratio": 0.5346528146400308}
+{"id": "00997878", "ok": false, "fb": false, "sec": 12.74, "tries": 3, "tok": 3115, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00997878.stl`"}
+{"id": "00998012", "ok": false, "fb": true, "sec": 12.47, "tries": 3, "tok": 3087, "cd": 0.07298621974189831, "volratio": 0.851063829787234}
+{"id": "00998074", "ok": false, "fb": false, "sec": 30.43, "tries": 3, "tok": 5259, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00998074.stl`"}
+{"id": "00998088", "ok": false, "fb": false, "sec": 30.23, "tries": 3, "tok": 6003, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00998088.stl`"}
+{"id": "00998283", "ok": false, "fb": true, "sec": 8.98, "tries": 3, "tok": 2421, "cd": 0.005868721815920738, "volratio": 1.0000000113532657}
+{"id": "00998300", "ok": true, "fb": false, "sec": 7.04, "tries": 2, "tok": 1582, "cd": 0.1029262599559765, "volratio": 968421052.6315818}
+{"id": "00998356", "ok": false, "fb": true, "sec": 23.87, "tries": 3, "tok": 4763, "cd": 0.10996813946855905, "volratio": 0.8410753336792576}
+{"id": "00998398", "ok": false, "fb": true, "sec": 13.27, "tries": 3, "tok": 3282, "cd": 0.08706696446264219, "volratio": 1.0002658373556377}
+{"id": "00998698", "ok": false, "fb": false, "sec": 17.59, "tries": 3, "tok": 4116, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00998698.stl`"}
+{"id": "00998714", "ok": false, "fb": false, "sec": 30.08, "tries": 3, "tok": 5854, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00998714.stl`"}
+{"id": "00998749", "ok": false, "fb": false, "sec": 13.4, "tries": 3, "tok": 3337, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00998749.stl`"}
+{"id": "00998843", "ok": false, "fb": false, "sec": 16.11, "tries": 3, "tok": 3694, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00998843.stl`"}
+{"id": "00999126", "ok": false, "fb": true, "sec": 15.84, "tries": 3, "tok": 3536, "cd": 0.006409816608141366, "volratio": 1.108577751531333}
+{"id": "00999141", "ok": false, "fb": true, "sec": 14.21, "tries": 3, "tok": 3213, "cd": 0.0055884573031967505, "volratio": 0.9999847704069748}
+{"id": "00999374", "ok": false, "fb": false, "sec": 18.85, "tries": 3, "tok": 3469, "cd": 5.196152422706632, "volratio": 0.0, "err": "string is not a file: `/tmp/cadp_00999374.stl`"}
+n=20 compile=0.500 cd_median=2.653 cd_mean=2.626 sec_median=15.42
+DONE
